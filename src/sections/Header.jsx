@@ -2,6 +2,7 @@ import clsx from "clsx";
 import { useState } from "react";
 import { Link as LinkScroll } from "react-scroll";
 //immideate return functionat component without curly braces
+// eslint-disable-next-line react/prop-types
 const NavLink = ({ title }) => (
   <LinkScroll
     className="base-bold text-p4 uppercase transition-colors duration-500 cursor-pointer
