@@ -1,5 +1,5 @@
 import clsx from "clsx";
-import { useDebugValue, useEffect, useState } from "react";
+import {  useEffect, useState } from "react";
 import { Link as LinkScroll } from "react-scroll";
 //immideate return functionat component without curly braces
 // eslint-disable-next-line react/prop-types
